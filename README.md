@@ -852,3 +852,214 @@ Answer: D
  D. 620
 
 Answer: A
+
+01. How many 5's are there in the following sequence which are immediately followed by 3 
+ but not immediately preceded by 7 ? 
+ 8 9 5 3 2 5 3 8 5 5 6 8 7 3 3 5 7 7 5 3 6 5 3 3 5 7 3 8 
+ A. One B. Two C. Three D. Four E. More than four 
+ ANSWER: C
+02. In the series, 
+ 6 4 1 2 2 8 7 4 2 1 5 3 8 6 2 1 7 1 4 1 3 2 8 6 
+ how many pairs of successive numbers have a difference of 2 each? 
+ A. 4 B. 5 C. 6 D. 7
+ ANSWER: C
+03. Rahul ranked ninth from the top and thirty eighth from the bottom in a class. How many 
+ students are there in the class ? 
+ A. 45 B.46 C. 47 D. 48 
+ ANSWER: B
+04. In a row of 21 girls, when Monika was shifted by four places towards the right, she 
+ became 12th from the left end. What was her earlier position from the right end of the 
+ row? 
+ A. 9th B. 10th C. 11th D. 12th E. 14th 
+ ANSWER: E
+05. In a row of boys, Deepak is seventh from the left and Madhu is twelfth from the right. If 
+ they interchange their positions, Deepak becomes twenty-second from the left. How 
+ many boys are there in the row? 
+ A. 19 B. 31 C. 33 D. Cannot be determined E. None of these 
+ ANSWER: C
+
+06. Satish remembers that his brother's birthday is after fifteenth but before eighteenth of 
+ February whereas his sister kajal remembers that her brother's birthday is after sixteenth 
+ but before nineteenth of February. On which day in February is Satish's brother's 
+ birthday?
+ A. 16th B. 17th C. 18th D. 19th E. None of these 
+ ANSWER: B
+07. A bus for Delhi leaves every thirty minutes from a bus stand. An enquiry clerk told a 
+ passenger that the bus had already left ten minutes ago and the next bus will leave at 
+ 9.35 a.m. At what time did the enquiry clerk give this information to the passenger ? 
+ A. 9.10 a.m. B. 8.55 a.m. C. 9.08 p.m. D. 9.05 a.m. E. 9.15 a.m.
+ ANSWER: E
+
+08. If ‘+’stands for division, ‘÷’ stands for multiplication, ‘x’ stands for subtraction and ‘-‘ 
+ stands for addition, which one of the following is correct?
+ A. 18 ÷ 6 – 7 + 5 x 2 = 20
+ B. 18 + 6 ÷ 7 x 5 – 2 = 18
+ C. 18 x 6 + 7 ÷ 5 -2 = 16
+ D. 18 ÷ 6 x 7 + 5 -2 = 22
+ ANSWER: B
+
+09. If ‘+’ stands for multiplication, ‘x’ stands for division, ‘-‘ stands for addition and ‘÷’ 
+ stands for subtraction, what is the answer for the following equation? 
+ 20 – 5 ÷18 x (3 + 2) =?
+ A. 20
+ B. 18
+ C. 108
+ D. 22
+ ANSWER: D
+10. If L = +, M = – , N = x, P = ÷, then 5 N 5 P 5 L 5 M 5 =?
+ A. 0
+ B. 5
+ C. 10
+ D. 15
+ ANSWER: B
+11. Which alternative clearly indicates the rule followed in the following set of numbers?
+ 7 4 8 2 = 24
+ A. -, x, x
+ B. x, +,÷
+ C. x, -, ÷
+ D. x, ÷,-
+ ANSWER: C
+12. In the following question, identify the correct response from the given premises stated 
+ according to following symbols. 12 3 4 8 = 0
+ A. – + +
+ B. ÷ + ÷
+ C. – – –
+ D. ÷ + –
+ ANSWER: D
+
+13. After interchanging ÷ and =, 2 and 3, which one of the following statements becomes 
+ correct?
+ A. 15 = 2 ÷ 3
+ B. 5 ÷ 15 = 2
+ C. 2 = 15 ÷ 3
+ D. 3 - 2 ÷ 15
+ ANSWER: B
+14. Select the correct combination of Mathematical signs to replace * signs and to balance the 
+ given equation 4 * 6 * 6 * 2 * 20
+ A. + ÷ = ÷
+ B. x – + =
+ C. + – = ÷
+ D. – + = ÷
+ ANSWER: B
+
+15. Select a figure from amongst the Answer Figures which will continue the same series as 
+ established by the five Problem Figures.
+ Problem Figures: Answer Figures:
+ 
+ (A) (B) (C) (D) (E) (1) (2) (3) (4) (5)
+ A. 1
+ B. 2
+ C. 3
+ D. 4
+ E. 5
+ ANSWER: C
+
+22. Which of the following logic connectives is equivalent to ∼(p⟶q)
+ A. p ∨ ∼q
+ B. p ∧ ∼q
+ C. ∼ p ∨ ∼q
+ D. ∼p∧q
+ ANSWER: B
+23. A statement is said to tautologically imply a statement if and only if _______ is a 
+ tautology.
+ A. B→A
+ B. A→B
+ C. A ⋀ B
+ D. A ⋁ B
+ ANSWER: B
+24. If truth values of a statement formula A is equal to the truth values of a statement formula 
+ B, then which of the following is true?
+ A. A is equivalence to B
+ B. B is equivalence to A
+ C. A and B are said to be equivalent.
+ D. All of the above.
+ ANSWER: D
+25. If final column of a truth table of a given statement formula has all F then it is called
+ A. A contradiction
+ B. A tautology
+ C. A negation statement
+ D. None of the above
+ ANSWER: A
+
+26. Consider the statements. P: ‘A’ is rich and Q: ‘A’ is happy. Then the symbolic form of 
+ the statement "’A’ is poor but happy" is
+ A. P ⋀ Q
+ B. ¬𝑃 ⋀ 𝑄
+ C. ¬𝑃 ⋁ 𝑄
+ D. P ⋁ Q
+ ANSWER: B
+27. If truth value of statement P is T and statement Q is F then the truth value of 
+ (¬𝑃 ⋀ ¬𝑄) ⋁ P is 
+ A. T
+ B. F
+ C. T or F
+ D. None of the above
+ ANSWER: A
+28. Let P be the statement "If X, then Y." Which of the following statements describes the 
+ inverse of P?
+ A. If Y, then X
+ B. If X, then not Y
+ C. If not Y, then not X
+ D. If not X, then not Y
+ ANSWER: D
+
+(а) if the data in statement I alone are sufficient to answer the question; 
+(b) if the data in statement II alone are sufficient answer the question; 
+(c) if the data either in I or II alone are sufficient to answer the question; 
+(d) if the data given in both the statements together are not sufficient to answer the question; 
+(e) if the data in both the statements together are needed. 
+29. What is Reena's rank in the class? 
+ I. There are 26 students in the class. 
+ II. There are 9 students who have scored less than Reena. 
+ ANSWER: E
+30. Who is the father of M? 
+ I. A and B are brothers. 
+ II. B's wife is sister of M' s wife. 
+ ANSWER: D
+31. What day is the fourteenth of a given month? 
+ I. The last day of the month is a Wednesday.
+ II. The third Saturday of the month was seventeenth. 
+ ANSWER: B
+32. Among four friends A. B, C and D, who is the heaviest ? 
+ I. B is heavier than A, but lighter than D. 
+ II. C is lighter than B. 
+ ANSWER: E
+33. It is 8.00 p.m., when can Hemant get next bus for Ramnagar from Dhanpur ? 
+ I. Buses for Ramnagar leave after every 30 minutes, till 10 p.m. 
+ II. Fifteen minutes ago, one bus has left for Ramnagar. 
+ ANSWER: E
+
+34. Pointing out to a lady, Rajan said,” she is the daughter of the woman who is the mother of 
+ the husband of my mother.” Who is the lady to Rajan?
+ A. Aunt
+ B. Sister
+ C. Cousin
+ D. Sister in law
+ ANSWER: A
+35. Pointing to a man in the photograph, Asha said “His mothers only daughter is my 
+ mother.” How is Asha related to that man?
+ A. Aunt
+ B. Sister
+ C. Niece
+ D. Sister in law
+ ANSWER: C
+36. If A+B means A is the sister of B; A-B means A is the brother of B; A*B means A is the 
+ daughter of B. Which of the following shows the relation that E is the maternal uncle of 
+ D?
+ A. D+F*E
+ B. D-F*E
+ C. D*F+E
+ D. D*F-E
+ ANSWER: C
+
+
+![image](https://github.com/lastexam42/apptitude_builder/assets/165969426/4c25e54d-22ca-4e63-ab50-b50fc2c1b4ce)
+
+![image](https://github.com/lastexam42/apptitude_builder/assets/165969426/5c18f2d2-cb45-48b2-b45f-89feefae139a)
+
+![image](https://github.com/lastexam42/apptitude_builder/assets/165969426/b46828db-ad26-4e47-b6f2-c8f6fa9d2150)
+
+
+
+
+
